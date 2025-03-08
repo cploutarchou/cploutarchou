@@ -6,7 +6,7 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 ```
 
 🔭 Currently crafting [microGo](https://github.com/cploutarchou/microGo) and blockchain solutions<br>
-🌱 Diving into **Zig** for high-performance systems<br>
+🌱 Diving into **Zig** and **Solidity** for high-performance systems<br>
 🤝 Seeking collaborators for blockchain infrastructure and DeFi projects<br>
 👨‍💻 All my creations live at [https://github.com/cploutarchou](https://github.com/cploutarchou)<br>
 📝 Sharing my thoughts at [https://christosploutarchou.com/posts/](https://christosploutarchou.com/posts/)<br>
@@ -65,12 +65,11 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🛠️ Tools of the Trade:
-- **Backend Frameworks:** ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) 
+- **Backend Frameworks:** ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
 - **Data Protocols:** ![gRPC](https://img.shields.io/badge/gRPC-6E2FB9?style=flat&logo=gRPC&logoColor=white) ![REST](https://img.shields.io/badge/REST-FF6F61?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
 - **Database Tech:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 - **ML & AI Tools:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBD00?style=flat&logo=huggingface&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFBD00?style=flat&logo=huggingface&logoColor=black)
 - **Cloud Infrastructure:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-- **DevOps & Monitoring:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-00897B?style=flat&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 - **Workflow Engines:** ![Temporal](https://img.shields.io/badge/Temporal-276EF1?style=flat&logo=temporal&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 - **Development Tools:** ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 
