@@ -6,7 +6,7 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 ```
 
 🔭 Currently crafting [microGo](https://github.com/cploutarchou/microGo) and blockchain solutions<br>
-🌱 Diving into **Zig** and **Solidity** for high-performance systems<br>
+🌱 Diving into **Zig** for high-performance systems<br>
 🤝 Seeking collaborators for blockchain infrastructure and DeFi projects<br>
 👨‍💻 All my creations live at [https://github.com/cploutarchou](https://github.com/cploutarchou)<br>
 📝 Sharing my thoughts at [https://christosploutarchou.com/posts/](https://christosploutarchou.com/posts/)<br>
