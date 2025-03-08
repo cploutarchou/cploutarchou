@@ -1,23 +1,25 @@
 # 👾 Welcome to My Digital Lair
 
 ```bash
-> whoami
-Christos Ploutarchou - Backend Wizard | Fintech Enthusiast | Code Alchemist
+$ whoami
+Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | Fintech Enthusiast | Go, Python, Zig | Building decentralized systems and intelligent trading solutions 🚀
 ```
 
-🔭 Currently crafting [microGo](https://github.com/cploutarchou)<br>
-🌱 Diving into **Zig** (The future of systems programming)<br>
-🤝 Seeking collaborators for [microGo](https://github.com/cploutarchou/MicroGO)<br>
+🔭 Currently crafting [microGo](https://github.com/cploutarchou/microGo) and blockchain solutions<br>
+🌱 Diving into **Zig** and **Solidity** for high-performance systems<br>
+🤝 Seeking collaborators for blockchain infrastructure and DeFi projects<br>
 👨‍💻 All my creations live at [https://github.com/cploutarchou](https://github.com/cploutarchou)<br>
 📝 Sharing my thoughts at [https://christosploutarchou.com/posts/](https://christosploutarchou.com/posts/)<br>
-💬 Ask me about **Golang, Python, Crypto, or Dockerized Systems**<br>
+💬 Ask me about **Golang, Python, Zig, Blockchain, ML/AI, or Dockerized Systems**<br>
 📫 Reach me at **cploutarchou@gmail.com**<br>
 📄 Peek at my journey: [My Resume](https://christosploutarchou.com/christos-ploutarchou-resume/)<br>
 ⚡ Fun fact: **I debug with coffee and lemon ice cream.**
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-ploutarchou)
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/CPloutarchou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christos-ploutarchou)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/CPloutarchou)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cploutarchou)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cploutarchou)
 
 ## 💻 Tech Arsenal:
 ```bash
@@ -25,7 +27,8 @@ Christos Ploutarchou - Backend Wizard | Fintech Enthusiast | Code Alchemist
 ```
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Zig](https://img.shields.io/badge/zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,20 +44,51 @@ Christos Ploutarchou - Backend Wizard | Fintech Enthusiast | Code Alchemist
 ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Amazon Lambda](https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=aws-lambda&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBD00?style=for-the-badge&logo=huggingface&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🛠️ Tools of the Trade:
-- **Golang Libraries:** `Go-SQL-Driver`, `SQLx`, `Reflectx`, `Telebot`, `gRPC`
-- **Python Libraries:** `Telethon`, `FastAPI`, `Flask`, `SQLAlchemy`, `Pandas`, `NumPy`
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, DynamoDB
-- **Cloud & DevOps Tools:** AWS, Docker, Nginx, AWS Lambda, Prometheus, Grafana
+- **Backend Frameworks:** ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
+- **Data Protocols:** ![gRPC](https://img.shields.io/badge/gRPC-6E2FB9?style=flat&logo=gRPC&logoColor=white) ![REST](https://img.shields.io/badge/REST-FF6F61?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
+- **Database Tech:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+- **ML & AI Tools:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBD00?style=flat&logo=huggingface&logoColor=black) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+- **Cloud Infrastructure:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+- **DevOps & Monitoring:** ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F5A800?style=flat&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-00897B?style=flat&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+- **Workflow Engines:** ![Temporal](https://img.shields.io/badge/Temporal-276EF1?style=flat&logo=temporal&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+- **Development Tools:** ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cploutarchou&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cploutarchou&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cploutarchou&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🔗 Blockchain & Crypto Projects
+[![Smart Contract Auditor](https://img.shields.io/badge/Smart_Contract_Auditor-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://github.com/cploutarchou)
+[![DeFi Protocol](https://img.shields.io/badge/DeFi_Protocol-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/cploutarchou)
+[![Trading Signal Bot](https://img.shields.io/badge/Trading_Signal_Bot-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/cploutarchou)
+[![Market Insight Dashboard](https://img.shields.io/badge/Market_Insight_Dashboard-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cploutarchou)
+[![Arbitrage Hunter](https://img.shields.io/badge/Arbitrage_Hunter-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://github.com/cploutarchou)
+[![NFT Marketplace](https://img.shields.io/badge/NFT_Marketplace-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://github.com/cploutarchou)
+[![Decentralized Identity](https://img.shields.io/badge/Decentralized_Identity-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://github.com/cploutarchou)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cploutarchou&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 💰 Support My Work:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cploutarchou)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cploutarchou)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cploutarchou)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/cploutarchou)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/cploutarchou)
+
+[![](https://visitcount.itsvg.in/api?id=cploutarchou&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ```bash
 > why_zig
@@ -69,9 +103,10 @@ Christos Ploutarchou - Backend Wizard | Fintech Enthusiast | Code Alchemist
 The sweet spot between C's simplicity and Rust's safety 🚀"
 ```
 
-## 💰 Support My Work:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cploutarchou)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cploutarchou)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cploutarchou)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cploutarchou&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=cploutarchou&icon=0&color=3)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cploutarchou&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cploutarchou&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cploutarchou&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
