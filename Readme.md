@@ -97,7 +97,6 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 - Simpler than Rust, safer than C
 - Incredible C/C++ interop without FFI
 - Comptime > Templates/Macros
-- Built-in build system and package manager
 - Cross-compilation made easy
 The sweet spot between C's simplicity and Rust's safety 🚀"
 ```
