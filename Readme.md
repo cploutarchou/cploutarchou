@@ -2,15 +2,15 @@
 
 ```bash
 $ whoami
-Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | Fintech Enthusiast | Go, Python, Zig | Building decentralized systems and intelligent trading solutions 🚀
+Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | Fintech Enthusiast | Go, Python, Rust | Building decentralized systems and intelligent trading solutions 🚀
 ```
 
 🔭 Currently crafting [microGo](https://github.com/cploutarchou/microGo) and blockchain solutions<br>
-🌱 Diving into **Zig** for high-performance systems<br>
+🌱 Diving into **Rust** for high-performance systems<br>
 🤝 Seeking collaborators for blockchain infrastructure and DeFi projects<br>
 👨‍💻 All my creations live at [https://github.com/cploutarchou](https://github.com/cploutarchou)<br>
 📝 Sharing my thoughts at [https://christosploutarchou.com/posts/](https://christosploutarchou.com/posts/)<br>
-💬 Ask me about **Golang, Python, Zig, Blockchain, ML/AI, or Dockerized Systems**<br>
+💬 Ask me about **Golang, Python, Rust, Blockchain, ML/AI, or Dockerized Systems**<br>
 📫 Reach me at **cploutarchou@gmail.com**<br>
 📄 Peek at my journey: [My Resume](https://christosploutarchou.com/christos-ploutarchou-resume/)<br>
 ⚡ Fun fact: **I debug with coffee and lemon ice cream.**
@@ -27,7 +27,7 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 ```
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -63,7 +63,7 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 
 
 ## 🛠️ Tools of the Trade:
-- **Backend Frameworks:** ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
+- **Backend Frameworks:** ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 - **Data Protocols:** ![gRPC](https://img.shields.io/badge/gRPC-6E2FB9?style=flat&logo=gRPC&logoColor=white) ![REST](https://img.shields.io/badge/REST-FF6F61?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql) ![Protobuf](https://img.shields.io/badge/Protobuf-4285F4?style=flat) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
 - **Database Tech:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 - **AI Tools:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBD00?style=flat&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFBD00?style=flat&logo=huggingface&logoColor=black)
@@ -77,7 +77,7 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 [![DeFi Protocol](https://img.shields.io/badge/DeFi_Protocol-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/cploutarchou)
 [![Trading Signal Bot](https://img.shields.io/badge/Trading_Signal_Bot-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/cploutarchou)
 [![Market Insight Dashboard](https://img.shields.io/badge/Market_Insight_Dashboard-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cploutarchou)
-[![Arbitrage Hunter](https://img.shields.io/badge/Arbitrage_Hunter-F7A41D?style=for-the-badge&logo=zig&logoColor=white)](https://github.com/cploutarchou)
+[![Arbitrage Hunter](https://img.shields.io/badge/Arbitrage_Hunter-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/cploutarchou)
 [![NFT Marketplace](https://img.shields.io/badge/NFT_Marketplace-8247E5?style=for-the-badge&logo=polygon&logoColor=white)](https://github.com/cploutarchou)
 [![Decentralized Identity](https://img.shields.io/badge/Decentralized_Identity-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)](https://github.com/cploutarchou)
 
@@ -90,15 +90,15 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 [![](https://visitcount.itsvg.in/api?id=cploutarchou&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ```bash
-> why_zig
-"Choosing Zig over Rust and C because:
-- No hidden control flow = predictable performance
-- No hidden memory allocations = better control
-- Simpler than Rust, safer than C
-- Incredible C/C++ interop without FFI
-- Comptime > Templates/Macros
-- Cross-compilation made easy
-The sweet spot between C's simplicity and Rust's safety 🚀"
+> why_rust
+"Choosing Rust because:
+- Memory safety without garbage collection
+- Zero-cost abstractions
+- Fearless concurrency
+- Pattern matching and powerful type system
+- Great community and documentation
+- Performance comparable to C/C++ with modern language features
+The perfect balance of safety, speed, and productivity 🦀"
 ```
 
 ## 🏆 GitHub Trophies
