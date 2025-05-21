@@ -12,7 +12,6 @@ Christos Ploutarchou | Senior Backend Developer | Blockchain & ML/AI Engineer | 
 📝 Sharing my thoughts at [https://christosploutarchou.com/posts/](https://christosploutarchou.com/posts/)<br>
 💬 Ask me about **Golang, Python, Rust, Blockchain, ML/AI, or Dockerized Systems**<br>
 📫 Reach me at **cploutarchou@gmail.com**<br>
-📄 Peek at my journey: [My Resume](https://christosploutarchou.com/christos-ploutarchou-resume/)<br>
 ⚡ Fun fact: **I debug with coffee and lemon ice cream.**
 
 ## 🌐 Connect with Me:
