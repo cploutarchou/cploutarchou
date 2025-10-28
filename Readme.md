@@ -3,12 +3,12 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║   ██████╗██████╗ ██╗      ██████╗ ██╗   ██╗████████╗ █████╗ ██████╗      ║
-║  ██╔════╝██╔══██╗██║     ██╔═══██╗██║   ██║╚══██╔══╝██╔══██╗██╔══██╗     ║
-║  ██║     ██████╔╝██║     ██║   ██║██║   ██║   ██║   ███████║██████╔╝     ║
-║  ██║     ██╔═══╝ ██║     ██║   ██║██║   ██║   ██║   ██╔══██║██╔══██╗     ║
-║  ╚██████╗██║     ███████╗╚██████╔╝╚██████╔╝   ██║   ██║  ██║██║  ██║     ║
-║   ╚═════╝╚═╝     ╚══════╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝     ║
+║                      ██████╗██████╗ ██╗      ██████╗ ██╗   ██╗           ║
+║                     ██╔════╝██╔══██╗██║     ██╔═══██╗██║   ██║           ║
+║                     ██║     ██████╔╝██║     ██║   ██║██║   ██║           ║
+║                     ██║     ██╔═══╝ ██║     ██║   ██║██║   ██║           ║
+║                     ╚██████╗██║     ███████╗╚██████╔╝╚██████╔╝           ║
+║                      ╚═════╝╚═╝     ╚══════╝ ╚═════╝  ╚═════╝            ║
 ║                                                                           ║
 ║              Senior Backend Engineer • Blockchain Architect              ║
 ║                   Distributed Systems • ML/AI Engineer                   ║
@@ -139,8 +139,6 @@ class BackendEngineer:
 
 ```rust
 // High-performance system design approach
-use tokio::runtime::Runtime;
-
 struct SystemArchitecture {
     pattern: ArchPattern,
     scalability: ScalabilityStrategy,
@@ -186,7 +184,7 @@ $ cat backend_principles.txt
 ### Backend Frameworks & Tools
 - **Go Frameworks:** ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat&logo=go&logoColor=white) - High-performance HTTP frameworks
 - **Python Frameworks:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask) - Modern async APIs
-- **Rust:** ![Actix](https://img.shields.io/badge/Actix-000000?style=flat&logo=rust&logoColor=white) ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white) - Ultra-fast async runtime
+- **Rust:** ![Actix](https://img.shields.io/badge/Actix-000000?style=flat&logo=rust&logoColor=white) - Web framework | ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat&logo=rust&logoColor=white) - Async runtime
 
 ### Communication Protocols
 - **RPC & APIs:** ![gRPC](https://img.shields.io/badge/gRPC-6E2FB9?style=flat&logo=gRPC&logoColor=white) ![REST](https://img.shields.io/badge/REST-FF6F61?style=flat) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql)
