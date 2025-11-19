@@ -1,0 +1,42 @@
+name: Cache contribution SVGs
+
+on:
+  schedule:
+    # runs every day at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  cache-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch streak (demolab)
+        run: |
+          set -e
+          mkdir -p assets
+          curl -fsSL "https://streak-stats.demolab.com/?user=cploutarchou&theme=dark&hide_border=true&background=0D1117" -o assets/streak-demolab.svg || true
+
+      - name: Fetch activity heatmap (activity-graph)
+        run: |
+          set -e
+          mkdir -p assets
+          curl -fsSL "https://activity-graph.herokuapp.com/graph?username=cploutarchou&theme=react-dark" -o assets/activity-graph.svg || true
+
+      - name: Commit and push updated SVGs
+        run: |
+          set -e
+          if git status --porcelain | grep -E "assets/(streak-demolab|activity-graph)\.svg"; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/streak-demolab.svg assets/activity-graph.svg || true
+            git commit -m "chore: update cached contribution SVGs" || true
+            git push
+          else
+            echo "No asset changes to commit"
+          fi
