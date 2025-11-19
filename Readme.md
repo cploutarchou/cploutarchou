@@ -108,7 +108,7 @@ var projects = []Project{
       <img src="https://github-readme-stats.vercel.app/api?username=cploutarchou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cploutarchou&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+      <img src="https://streak-stats.demolab.com/?user=cploutarchou&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00" />
     </td>
   </tr>
 </table>
