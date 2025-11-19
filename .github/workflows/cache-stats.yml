@@ -2,8 +2,9 @@ name: Cache contribution SVGs
 
 on:
   schedule:
-    # runs every day at 06:00 UTC
+    # runs every day at 06:00 UTC and again at 18:00 UTC (twice daily)
     - cron: '0 6 * * *'
+    - cron: '0 18 * * *'
   workflow_dispatch:
 
 jobs:
@@ -27,6 +28,26 @@ jobs:
           set -e
           mkdir -p assets
           curl -fsSL "https://activity-graph.herokuapp.com/graph?username=cploutarchou&theme=react-dark" -o assets/activity-graph.svg || true
+
+      - name: Fetch GitHub Readme Stats (left-hand)
+        run: |
+          set -e
+          mkdir -p assets
+          curl -fsSL "https://github-readme-stats.vercel.app/api?username=cploutarchou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" -o assets/github-readme-stats.svg || true
+
+      - name: Install SVGO (minify SVGs)
+        run: |
+          set -e
+          npm i -g svgo || true
+
+      - name: Minify cached SVGs
+        run: |
+          set -e
+          for f in assets/*.svg; do
+            if [ -f "$f" ]; then
+              svgo "$f" -o "$f" || true
+            fi
+          done
 
       - name: Commit and push updated SVGs
         run: |
