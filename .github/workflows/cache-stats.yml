@@ -35,17 +35,14 @@ jobs:
           mkdir -p assets
           curl -fsSL "https://github-readme-stats.vercel.app/api?username=cploutarchou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" -o assets/github-readme-stats.svg || true
 
-      - name: Install SVGO (minify SVGs)
+      - name: Minify cached SVGs with pinned SVGO
         run: |
           set -e
-          npm i -g svgo || true
-
-      - name: Minify cached SVGs
-        run: |
-          set -e
+          # Use npx to run a pinned svgo version without global install
           for f in assets/*.svg; do
             if [ -f "$f" ]; then
-              svgo "$f" -o "$f" || true
+              # pin to svgo@2.8.0 for consistent behavior; use svgo config file
+              npx svgo@2.8.0 --multipass -i "$f" -o "$f" --config=svgo-config.json || true
             fi
           done
 

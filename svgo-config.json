@@ -1,0 +1,11 @@
+{
+  "multipass": true,
+  "plugins": [
+    {"name": "removeViewBox", "active": false},
+    {"name": "removeUnknownsAndDefaults", "params": {"keepDataAttrs": true}},
+    {"name": "removeDimensions", "active": true},
+    {"name": "cleanupIDs", "active": true},
+    {"name": "convertColors", "params": {"names2hex": true, "rgb2hex": true}},
+    {"name": "removeAttrs", "params": {"attrs": "data-.*"}}
+  ]
+}
