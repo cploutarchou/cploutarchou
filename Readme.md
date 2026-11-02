@@ -1,63 +1,51 @@
-## Hi, I'm Christos 👋
+## Hi, I'm Christos
 
-I'm a backend engineer from Cyprus. I've been writing code for more than 15 years, and pushing most of it to GitHub since 2019.
+**Head of Backend Development at Investotech · Fintech and trading systems · Cyprus**
 
-Right now I'm Head of Backend Development at Investotech, where I lead a small team working on fintech and trading systems: MT4/MT5 integrations, payments, CRM, KYC/AML and reporting. Before that I was Managing Director at FXWeb Technologies, and I was still writing code there too.
+I lead backend engineering and stay hands-on with Go, Python and AWS. My work covers architecture, delivery and production reliability for broker operations, payments, CRM, reporting and data services.
 
-I started out with PHP and JavaScript, building websites, CodeIgniter stuff and small Node.js APIs. Then I moved on to Python and Docker, and after that to Go, which is still my main language. I picked up Rust a few years later and I really like it. Most of my time goes into backends, message queues, trading systems and the servers they run on.
+I have more than 15 years of software development experience. I help teams understand the full system, make clear technical decisions and build software they can maintain.
 
-I like to keep things as simple as the problem allows, protect the data, and make failures easy to see. When something breaks, I follow the whole flow, not just one service.
+### What I focus on
 
-> We must not blame programmers for their bugs. They belong to them only until the code is merged into the repository. After that, all bugs are ours!
+- **Backend architecture:** APIs, service boundaries, database design and integrations, including MT4/MT5.
+- **Reliability and performance:** finding bottlenecks, understanding failures, improving monitoring and making releases safer.
+- **Data engineering:** ETL, data pipelines and reporting systems.
+- **Engineering leadership:** code reviews, technical standards, mentoring and shared ownership.
 
-### What I'm doing these days
+### Selected public projects
 
-- Go services and the infrastructure they need (Kafka, RabbitMQ, NATS, Elasticsearch, PostgreSQL, Redis)
-- Trading bots and tools for crypto exchanges, mostly in Go and Python
-- Rust when I need something fast and safe, like schedulers, Kafka clients and loggers
-- Running my own small Kubernetes (k3s) cluster and doing everything with GitOps
-- Playing with hardware on weekends: 3D printers, Raspberry Pi Pico, ESP32, and a DIY drone flight controller
+| Project | What it explores |
+| --- | --- |
+| [GoPulse](https://github.com/cploutarchou/gopulse) | Instrumenting Go goroutines and channels, with trace analysis and a web UI. |
+| [go-requests](https://github.com/cploutarchou/go-requests) | A Go HTTP client with a builder API, request configuration and usage examples. |
+| [Tokio Task Scheduler](https://github.com/cploutarchou/scheduler) | Asynchronous task scheduling in Rust using Tokio. |
 
-Most of my newer work lives in private repos, so the public list below is only part of it.
+These are personal projects. Check each repository for its current status, requirements and limitations before using it. Much of my professional work is in private repositories.
 
-### Some things I've built
+### Tools I work with
 
-#### Go
-- [microgo](https://github.com/cploutarchou/microgo) - a web framework for Go. I took the parts of Django I liked the most and built them again in Go.
-- [gopulse](https://github.com/cploutarchou/gopulse) - lets you see what your goroutines and channels are doing, so you can find leaks and deadlocks.
-- [go-requests](https://github.com/cploutarchou/go-requests) - an HTTP client that only uses the standard library.
-- [go-elastic-logger](https://github.com/cploutarchou/go-elastic-logger) - send your logs straight to Elasticsearch (v7 and v8).
-- [crypto-sdk-suite](https://github.com/cploutarchou/crypto-sdk-suite) - one Go library to talk to Binance, Bybit and CoinMarketCap.
-- [go-ratelimit](https://github.com/cploutarchou/go-ratelimit), [go-kafka-rest](https://github.com/cploutarchou/go-kafka-rest), [syncpkg](https://github.com/cploutarchou/syncpkg) - small packages I wrote along the way.
+**Main stack:** Go, Python, AWS, PostgreSQL, Docker and Kubernetes.
 
-#### Rust
-- [scheduler](https://github.com/cploutarchou/scheduler) - an async task scheduler built on Tokio.
-- [tiny_kafka](https://github.com/cploutarchou/tiny_kafka) - a small Kafka producer and consumer.
-- [loggix](https://github.com/cploutarchou/loggix) - a structured logger, inspired by Logrus from the Go world.
+I also work with Rust, Redis, Kafka, RabbitMQ, NATS and Elasticsearch. I run a personal k3s cluster and use GitOps to manage it.
 
-#### Older stuff that people still use
-- [node_rest_api_with_mysql](https://github.com/cploutarchou/node_rest_api_with_mysql) - a REST API tutorial with Express, Sequelize and MySQL. Still my most starred repo, which is funny.
-- [codeIgniter-menu-manager](https://github.com/cploutarchou/codeIgniter-menu-manager) - a multi-level Bootstrap menu for CodeIgniter. This one is from 2019.
-- [covid-19-tracker-django-app](https://github.com/cploutarchou/covid-19-tracker-django-app) - a COVID-19 dashboard for Cyprus, made in 2020.
-- [MicroservicesInfrastructrureSpringBootKafkaElasticSearch](https://github.com/cploutarchou/MicroservicesInfrastructrureSpringBootKafkaElasticSearch) - event-driven microservices with Spring Boot, Kafka and Elasticsearch. My Java days.
-- [pyspark-cluster-with-hadoop-on-docker](https://github.com/cploutarchou/pyspark-cluster-with-hadoop-on-docker), [kafka-stack](https://github.com/cploutarchou/kafka-stack), [nats-cluster-docker](https://github.com/cploutarchou/nats-cluster-docker), [docker-rabbitmq-cluster](https://github.com/cploutarchou/docker-rabbitmq-cluster) - Docker setups I made so I could stop building the same clusters again and again.
+<details>
+<summary>More projects and interests</summary>
 
-#### Side projects
-- [qidi-plus4-sidecar](https://github.com/cploutarchou/qidi-plus4-sidecar) and [qidi-plus4-klipper-config](https://github.com/cploutarchou/qidi-plus4-klipper-config) - the Klipper config for my QIDI Plus 4 printer, plus a Docker sidecar with Mainsail, a camera feed and monitoring.
-- [openhorizon-fc](https://github.com/cploutarchou/openhorizon-fc) - a DIY FPV flight controller on the Pico 2, with an ESP32 for the web UI.
-- [webexpose-scanner](https://github.com/cploutarchou/webexpose-scanner) - checks your own websites for backups, config files and secrets that are open to the public by mistake.
-- [mcp-servers](https://github.com/cploutarchou/mcp-servers) and [duckduckgo-mcp-agent](https://github.com/cploutarchou/duckduckgo-mcp-agent) - MCP servers, so AI tools can use web search and other tools.
+- [crypto-sdk-suite](https://github.com/cploutarchou/crypto-sdk-suite): work in progress on Go integrations for cryptocurrency platforms.
+- [tiny_kafka](https://github.com/cploutarchou/tiny_kafka): Rust Kafka producer and consumer examples.
+- [loggix](https://github.com/cploutarchou/loggix): structured logging in Rust.
+- [go-ratelimit](https://github.com/cploutarchou/go-ratelimit), [go-kafka-rest](https://github.com/cploutarchou/go-kafka-rest) and [syncpkg](https://github.com/cploutarchou/syncpkg): other Go projects.
+- [MicroGO](https://github.com/cploutarchou/microgo) and [go-elastic-logger](https://github.com/cploutarchou/go-elastic-logger): archived Go projects.
+- [node_rest_api_with_mysql](https://github.com/cploutarchou/node_rest_api_with_mysql) and [covid-19-tracker-django-app](https://github.com/cploutarchou/covid-19-tracker-django-app): earlier web projects.
+- [pyspark-cluster-with-hadoop-on-docker](https://github.com/cploutarchou/pyspark-cluster-with-hadoop-on-docker), [kafka-stack](https://github.com/cploutarchou/kafka-stack), [nats-cluster-docker](https://github.com/cploutarchou/nats-cluster-docker) and [docker-rabbitmq-cluster](https://github.com/cploutarchou/docker-rabbitmq-cluster): infrastructure experiments.
+- [mcp-servers](https://github.com/cploutarchou/mcp-servers) and [duckduckgo-mcp-agent](https://github.com/cploutarchou/duckduckgo-mcp-agent): experiments with AI tool integrations.
+- Outside backend work, I enjoy 3D printing, microcontrollers and [building a flight controller](https://github.com/cploutarchou/openhorizon-fc).
 
-### Tools I use
+</details>
 
-Go, Python and Rust, plus a bit of C/C++ and TypeScript. AWS, Docker, Kubernetes (k3s), Flux and Ansible. PostgreSQL, Redis, Kafka, RabbitMQ, NATS and Elasticsearch. Back in the day also PHP, Java and Kotlin. I do everything on Linux.
+### Find me
 
-### Where to find me
+[Website](https://christosploutarchou.com) · [Blog](https://christosploutarchou.com/blog) · [LinkedIn](https://www.linkedin.com/in/christos-ploutarchou/) · [ORCID](https://orcid.org/0009-0009-3766-8112) · [Medium](https://medium.com/@cploutarchou) · [X](https://x.com/CPloutarchou)
 
-- Blog: [christosploutarchou.com](https://christosploutarchou.com/blog)
-- Medium: [@cploutarchou](https://medium.com/@cploutarchou)
-- LinkedIn: [christos-ploutarchou](https://linkedin.com/in/christos-ploutarchou)
-- X: [@CPloutarchou](https://x.com/CPloutarchou)
-- Email: cploutarchou@gmail.com
-
-If something here saved you some time, you can [buy me a coffee](https://www.buymeacoffee.com/cploutarchou) ☕. Thanks for stopping by!
+**Contact:** [cploutarchou@gmail.com](mailto:cploutarchou@gmail.com)
