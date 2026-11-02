@@ -18,7 +18,7 @@ I have more than 15 years of software development experience. I help teams under
 | Project | What it explores |
 | --- | --- |
 | [GoPulse](https://github.com/cploutarchou/gopulse) | Instrumenting Go goroutines and channels, with trace analysis and a web UI. |
-| [go-requests](https://github.com/cploutarchou/go-requests) | A Go HTTP client with a builder API, request configuration and usage examples. |
+| [go-requests](https://github.com/cploutarchou/go-requests) | Archived Go HTTP client project showing a builder API, request configuration and usage examples. |
 | [Tokio Task Scheduler](https://github.com/cploutarchou/scheduler) | Asynchronous task scheduling in Rust using Tokio. |
 
 These are personal projects. Check each repository for its current status, requirements and limitations before using it. Much of my professional work is in private repositories.
